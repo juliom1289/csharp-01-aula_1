@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAdTNfsm4Fg=",
+  "success": true,
+  "projectFilePath": "/Users/juliofragososilva/Desktop/safadeza/csharp-01-aula_1/PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "/Users/juliofragososilva/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/juliofragososilva/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/juliofragososilva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
